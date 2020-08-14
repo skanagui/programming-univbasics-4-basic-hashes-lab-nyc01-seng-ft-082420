@@ -3,7 +3,10 @@ def new_hash
   # return an empty hash
 end
 
-def my_hash
+def my_hash{
+  :name: "John"
+}
+
   # return a valid hash with any key/value pair of your choice
 end
 
