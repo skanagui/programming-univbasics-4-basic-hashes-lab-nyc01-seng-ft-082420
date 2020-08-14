@@ -2,9 +2,8 @@ def new_hash
   new_hash = Hash.new 
 end
 
-def my_hash{
-  :name => "John"
-}
+def my_hash
+  {:name => "John"}
 
   # return a valid hash with any key/value pair of your choice
 end
