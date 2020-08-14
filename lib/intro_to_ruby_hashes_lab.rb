@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash{
-  name: "John"
+  :name => "John"
 }
 
   # return a valid hash with any key/value pair of your choice
