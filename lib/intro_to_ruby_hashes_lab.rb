@@ -4,11 +4,12 @@ end
 
 def my_hash
   {:name => "John"}
-
   # return a valid hash with any key/value pair of your choice
 end
 
-def pioneer
+def pioneer {
+  :name => "Grace Hopper"
+}
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
